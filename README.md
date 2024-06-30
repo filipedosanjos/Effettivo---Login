@@ -10,7 +10,7 @@ Este projeto foi desenvolvido profissionalmente, com o objetivo de melhorar a us
 - Bloqueio de acesso pelo IP ao realizar muitas tentativas.
 - Verificação de CAPTCHA.
 - Opção de troca de senha, com verificações de segurança.
-- 
+- Chat online com acesso direto a equipe de suporte.
 
 ## Destaques
 
@@ -24,4 +24,4 @@ Este projeto foi desenvolvido profissionalmente, com o objetivo de melhorar a us
 ![Imagem 1](Screenshot_15.png)
 ![Imagem 1](Screenshot_18.png)
 ![Imagem 1](Screenshot_20.png)
-![Imagem 1](Screenshot_21.png)
+![Imagem 1](Screenshot_22.png)
