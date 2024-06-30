@@ -20,4 +20,8 @@ Este projeto foi desenvolvido profissionalmente, com o objetivo de melhorar a us
 
 ## Imagens
 
+![Imagem 1](Screenshot_14.png)
+![Imagem 1](Screenshot_15.png)
+![Imagem 1](Screenshot_18.png)
 ![Imagem 1](Screenshot_20.png)
+![Imagem 1](Screenshot_21.png)
